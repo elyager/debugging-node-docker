@@ -1,0 +1,16 @@
+{
+  "name": "myServer",
+  "version": "1.0.0",
+  "description": "debugging-node-docker",
+  "main": "index.js",
+  "repository": "https://github.com/Elyager/debugging-node-docker",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Erik Elyager <elyager@gmail.com> (https://elyager.com)",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
